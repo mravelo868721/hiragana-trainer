@@ -93,8 +93,11 @@ export default function LeftPanel({
         ${selectedCategory === "yoon" ? "bg-gray-900 text-white" : ""}`}
           onClick={() => {
             setSelectedCategory("yoon");
-            setSelectedPrefix("ky");
-            setSelectedRomaji(null);
+            const firstPrefix = kanaData["yoon"]?.[0];
+            if (firstPrefix) {
+              setSelectedPrefix(firstPrefix.group);
+              setSelectedRomaji(firstPrefix.items[0]);
+            }
           }}
         >
           Yoon

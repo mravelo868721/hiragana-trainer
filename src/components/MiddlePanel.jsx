@@ -32,7 +32,10 @@ export default function MiddlePanel({
       w-full h-[80lvh]
       text-[15rem] font-bold text-center justify-center"
       >
-        {selectedRomaji ? selectedRomaji.kana : ""}
+        <p className="text-5xl">
+          {selectedRomaji ? "(" + selectedRomaji.romaji + ")" : ""}
+        </p>
+        <p>{selectedRomaji ? selectedRomaji.kana : ""}</p>
       </div>
 
       {/* ROMAJI BUTTONS */}
