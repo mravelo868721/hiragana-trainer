@@ -47,11 +47,11 @@ function App() {
         selectedCategory={selectedCategory}
         selectedPrefix={selectedPrefix}
         setSelectedPrefix={setSelectedPrefix}
+        selectedRomaji={selectedRomaji}
+        setSelectedRomaji={setSelectedRomaji}
       />
     </div>
   );
 }
 
 export default App;
-
-// wtf am i doing
