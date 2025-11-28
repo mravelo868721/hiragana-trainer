@@ -156,11 +156,11 @@
       "id": 5,
       "group": "p",
       "items": [
-        { "romaji": "pa", "kana": "ざ" },
-        { "romaji": "pi", "kana": "じ" },
-        { "romaji": "pu", "kana": "ず" },
-        { "romaji": "pe", "kana": "ぜ" },
-        { "romaji": "po", "kana": "ぞ" }
+        { "romaji": "pa", "kana": "ぱ" },
+        { "romaji": "pi", "kana": "ぴ" },
+        { "romaji": "pu", "kana": "ぷ" },
+        { "romaji": "pe", "kana": "ぺ" },
+        { "romaji": "po", "kana": "ぽ" }
       ]
     }
   ],
@@ -223,54 +223,54 @@
       "id": 7,
       "group": "ry",
       "items": [
-        { "romaji": "rya", "kana": "kya" },
-        { "romaji": "ryu", "kana": "kya" },
-        { "romaji": "ryo", "kana": "kya" }
+        { "romaji": "rya", "kana": "りゃ" },
+        { "romaji": "ryu", "kana": "りゅ" },
+        { "romaji": "ryo", "kana": "りょ" }
       ]
     },
     {
       "id": 8,
       "group": "gy",
       "items": [
-        { "romaji": "gya", "kana": "kya" },
-        { "romaji": "gyu", "kana": "kya" },
-        { "romaji": "gyo", "kana": "kya" }
+        { "romaji": "gya", "kana": "ぎゃ" },
+        { "romaji": "gyu", "kana": "ぎゅ" },
+        { "romaji": "gyo", "kana": "ぎょ" }
       ]
     },
     {
       "id": 9,
       "group": "jy",
       "items": [
-        { "romaji": "jya", "kana": "kya" },
-        { "romaji": "jyu", "kana": "kya" },
-        { "romaji": "jyo", "kana": "kya" }
+        { "romaji": "jya", "kana": "じゃ" },
+        { "romaji": "jyu", "kana": "じゅ" },
+        { "romaji": "jyo", "kana": "じょ" }
       ]
     },
     {
       "id": 10,
       "group": "dy",
       "items": [
-        { "romaji": "dya", "kana": "kya" },
-        { "romaji": "dyu", "kana": "kya" },
-        { "romaji": "dyo", "kana": "kya" }
+        { "romaji": "dya", "kana": "ぢゃ" },
+        { "romaji": "dyu", "kana": "ぢゅ" },
+        { "romaji": "dyo", "kana": "ぢょ" }
       ]
     },
     {
       "id": 11,
       "group": "by",
       "items": [
-        { "romaji": "bya", "kana": "kya" },
-        { "romaji": "byu", "kana": "kya" },
-        { "romaji": "byo", "kana": "kya" }
+        { "romaji": "bya", "kana": "びゃ" },
+        { "romaji": "byu", "kana": "びゅ" },
+        { "romaji": "byo", "kana": "びょ" }
       ]
     },
     {
       "id": 12,
       "group": "py",
       "items": [
-        { "romaji": "pya", "kana": "kya" },
-        { "romaji": "pyu", "kana": "kya" },
-        { "romaji": "pyo", "kana": "kya" }
+        { "romaji": "pya", "kana": "ぴゃ" },
+        { "romaji": "pyu", "kana": "ぴゅ" },
+        { "romaji": "pyo", "kana": "ぴょ" }
       ]
     }
   ]

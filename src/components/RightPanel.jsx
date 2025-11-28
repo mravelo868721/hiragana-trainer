@@ -3,6 +3,7 @@ export default function RightPanel({
   selectedCategory,
   selectedPrefix,
   setSelectedPrefix,
+  setSelectedRomaji,
 }) {
   const prefixes = kanaData[selectedCategory] || [];
 
@@ -30,7 +31,10 @@ export default function RightPanel({
             hover:bg-gray-900 hover:text-white transition
             ${selectedPrefix === row.group ? "bg-gray-900 text-white" : ""}
           `}
-          onClick={() => setSelectedPrefix(row.group)}
+          onClick={() => {
+            setSelectedPrefix(row.group);
+            setSelectedRomaji(row.items[0]); //Sets the default Romaji of the selected prefix row
+          }}
         >
           {row.group}
         </button>

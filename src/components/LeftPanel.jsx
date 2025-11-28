@@ -36,7 +36,8 @@ export default function LeftPanel({
         <li
           className={`
             seion
-            text-center
+            flex flex-col flex-1
+            text-center justify-center
             py-10
             hover:bg-gray-700 hover:text-white transition
             border border-gray-700
@@ -60,7 +61,8 @@ export default function LeftPanel({
         <li
           className={`
         dakuon
-        text-center
+        flex flex-col flex-1
+        text-center justify-center
         py-10
         hover:bg-gray-700 hover:text-white transition
         border border-gray-700
@@ -85,7 +87,8 @@ export default function LeftPanel({
         <li
           className={`
         yoon
-        text-center
+        flex flex-col flex-1
+        text-center justify-center
         py-10
         hover:bg-gray-700 hover:text-white transition
         border border-gray-700
