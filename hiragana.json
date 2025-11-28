@@ -1,0 +1,277 @@
+{
+  "seion": [
+    {
+      "id": 1,
+      "group": "a",
+      "items": [
+        { "romaji": "a", "kana": "あ" },
+        { "romaji": "i", "kana": "い" },
+        { "romaji": "u", "kana": "う" },
+        { "romaji": "e", "kana": "え" },
+        { "romaji": "o", "kana": "お" }
+      ]
+    },
+    {
+      "id": 2,
+      "group": "k",
+      "items": [
+        { "romaji": "ka", "kana": "か" },
+        { "romaji": "ki", "kana": "き" },
+        { "romaji": "ku", "kana": "く" },
+        { "romaji": "ke", "kana": "け" },
+        { "romaji": "ko", "kana": "こ" }
+      ]
+    },
+    {
+      "id": 3,
+      "group": "s",
+      "items": [
+        { "romaji": "sa", "kana": "さ" },
+        { "romaji": "shi", "kana": "し" },
+        { "romaji": "su", "kana": "す" },
+        { "romaji": "se", "kana": "せ" },
+        { "romaji": "so", "kana": "そ" }
+      ]
+    },
+    {
+      "id": 4,
+      "group": "t",
+      "items": [
+        { "romaji": "ta", "kana": "た" },
+        { "romaji": "chi", "kana": "ち" },
+        { "romaji": "tsu", "kana": "つ" },
+        { "romaji": "te", "kana": "て" },
+        { "romaji": "to", "kana": "と" }
+      ]
+    },
+    {
+      "id": 5,
+      "group": "n",
+      "items": [
+        { "romaji": "na", "kana": "な" },
+        { "romaji": "ni", "kana": "に" },
+        { "romaji": "nu", "kana": "ぬ" },
+        { "romaji": "ne", "kana": "ね" },
+        { "romaji": "no", "kana": "の" }
+      ]
+    },
+    {
+      "id": 6,
+      "group": "h",
+      "items": [
+        { "romaji": "ha", "kana": "は" },
+        { "romaji": "hi", "kana": "ひ" },
+        { "romaji": "fu", "kana": "ふ" },
+        { "romaji": "he", "kana": "へ" },
+        { "romaji": "ho", "kana": "ほ" }
+      ]
+    },
+    {
+      "id": 7,
+      "group": "m",
+      "items": [
+        { "romaji": "ma", "kana": "ま" },
+        { "romaji": "mi", "kana": "み" },
+        { "romaji": "mu", "kana": "む" },
+        { "romaji": "me", "kana": "め" },
+        { "romaji": "mo", "kana": "も" }
+      ]
+    },
+    {
+      "id": 8,
+      "group": "y",
+      "items": [
+        { "romaji": "ya", "kana": "や" },
+        { "romaji": "yu", "kana": "ゆ" },
+        { "romaji": "yo", "kana": "よ" }
+      ]
+    },
+    {
+      "id": 9,
+      "group": "r",
+      "items": [
+        { "romaji": "ra", "kana": "ら" },
+        { "romaji": "ri", "kana": "り" },
+        { "romaji": "ru", "kana": "る" },
+        { "romaji": "re", "kana": "れ" },
+        { "romaji": "ro", "kana": "ろ" }
+      ]
+    },
+    {
+      "id": 10,
+      "group": "w",
+      "items": [
+        { "romaji": "wa", "kana": "わ" },
+        { "romaji": "wo", "kana": "を" },
+        { "romaji": "n", "kana": "ん" }
+      ]
+    }
+  ],
+  "dakuon": [
+    {
+      "id": 1,
+      "group": "g",
+      "items": [
+        { "romaji": "ga", "kana": "が" },
+        { "romaji": "gi", "kana": "ぎ" },
+        { "romaji": "gu", "kana": "ぐ" },
+        { "romaji": "ge", "kana": "げ" },
+        { "romaji": "go", "kana": "ご" }
+      ]
+    },
+    {
+      "id": 2,
+      "group": "z",
+      "items": [
+        { "romaji": "za", "kana": "ざ" },
+        { "romaji": "ji", "kana": "じ" },
+        { "romaji": "zu", "kana": "ず" },
+        { "romaji": "ze", "kana": "ぜ" },
+        { "romaji": "zo", "kana": "ぞ" }
+      ]
+    },
+    {
+      "id": 3,
+      "group": "d",
+      "items": [
+        { "romaji": "da", "kana": "だ" },
+        { "romaji": "di", "kana": "ぢ" },
+        { "romaji": "du", "kana": "づ" },
+        { "romaji": "de", "kana": "で" },
+        { "romaji": "do", "kana": "ど" }
+      ]
+    },
+    {
+      "id": 4,
+      "group": "b",
+      "items": [
+        { "romaji": "ba", "kana": "ば" },
+        { "romaji": "bi", "kana": "び" },
+        { "romaji": "bu", "kana": "ぶ" },
+        { "romaji": "be", "kana": "べ" },
+        { "romaji": "bo", "kana": "ぼ" }
+      ]
+    },
+    {
+      "id": 5,
+      "group": "p",
+      "items": [
+        { "romaji": "pa", "kana": "ざ" },
+        { "romaji": "pi", "kana": "じ" },
+        { "romaji": "pu", "kana": "ず" },
+        { "romaji": "pe", "kana": "ぜ" },
+        { "romaji": "po", "kana": "ぞ" }
+      ]
+    }
+  ],
+  "yoon": [
+    {
+      "id": 1,
+      "group": "ky",
+      "items": [
+        { "romaji": "kya", "kana": "きゃ" },
+        { "romaji": "kyu", "kana": "きゅ" },
+        { "romaji": "kyo", "kana": "きょ" }
+      ]
+    },
+    {
+      "id": 2,
+      "group": "sh",
+      "items": [
+        { "romaji": "sha", "kana": "しゃ" },
+        { "romaji": "shu", "kana": "しゅ" },
+        { "romaji": "sho", "kana": "しょ" }
+      ]
+    },
+    {
+      "id": 3,
+      "group": "ch",
+      "items": [
+        { "romaji": "cha", "kana": "ちゃ" },
+        { "romaji": "chu", "kana": "ちゅ" },
+        { "romaji": "cho", "kana": "ちょ" }
+      ]
+    },
+    {
+      "id": 4,
+      "group": "ny",
+      "items": [
+        { "romaji": "nya", "kana": "にゃ" },
+        { "romaji": "nyu", "kana": "にゅ" },
+        { "romaji": "nyo", "kana": "にょ" }
+      ]
+    },
+    {
+      "id": 5,
+      "group": "hy",
+      "items": [
+        { "romaji": "hya", "kana": "ひゃ" },
+        { "romaji": "hyu", "kana": "ひゅ" },
+        { "romaji": "hyo", "kana": "ひょ" }
+      ]
+    },
+    {
+      "id": 6,
+      "group": "my",
+      "items": [
+        { "romaji": "mya", "kana": "みゃ" },
+        { "romaji": "myu", "kana": "みゅ" },
+        { "romaji": "myo", "kana": "みょ" }
+      ]
+    },
+    {
+      "id": 7,
+      "group": "ry",
+      "items": [
+        { "romaji": "rya", "kana": "kya" },
+        { "romaji": "ryu", "kana": "kya" },
+        { "romaji": "ryo", "kana": "kya" }
+      ]
+    },
+    {
+      "id": 8,
+      "group": "gy",
+      "items": [
+        { "romaji": "gya", "kana": "kya" },
+        { "romaji": "gyu", "kana": "kya" },
+        { "romaji": "gyo", "kana": "kya" }
+      ]
+    },
+    {
+      "id": 9,
+      "group": "jy",
+      "items": [
+        { "romaji": "jya", "kana": "kya" },
+        { "romaji": "jyu", "kana": "kya" },
+        { "romaji": "jyo", "kana": "kya" }
+      ]
+    },
+    {
+      "id": 10,
+      "group": "dy",
+      "items": [
+        { "romaji": "dya", "kana": "kya" },
+        { "romaji": "dyu", "kana": "kya" },
+        { "romaji": "dyo", "kana": "kya" }
+      ]
+    },
+    {
+      "id": 11,
+      "group": "by",
+      "items": [
+        { "romaji": "bya", "kana": "kya" },
+        { "romaji": "byu", "kana": "kya" },
+        { "romaji": "byo", "kana": "kya" }
+      ]
+    },
+    {
+      "id": 12,
+      "group": "py",
+      "items": [
+        { "romaji": "pya", "kana": "kya" },
+        { "romaji": "pyu", "kana": "kya" },
+        { "romaji": "pyo", "kana": "kya" }
+      ]
+    }
+  ]
+}
